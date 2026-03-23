@@ -7,11 +7,15 @@ Recent works have shown that Multimodal Large Language Models (MLLMs) are highly
 <p align='center'>
     <img src='imgs/SMSP.png'>
 </p>
-
-<div style="display: flex; align-items: center;">
-    	<img src = "imgs/intro.png",  width = "500" >
-    	<img src = "imgs/case_study.png",  width = "500" >
+<div style="display: flex; width: 100%; gap: 0;">
+  <div style="flex: 1;">
+    <img src="imgs/intro.png" style="width: 100%; height: auto; display: block;" alt="intro">
+  </div>
+  <div style="flex: 1;">
+    <img src="imgs/case_study.png" style="width: 100%; height: auto; display: block;" alt="case study">
+  </div>
 </div>
+
 
 ## Environment
 
