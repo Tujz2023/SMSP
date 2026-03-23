@@ -1,0 +1,12 @@
+openai
+diffusers
+tqdm
+loguru
+pillow
+datasets
+matplotlib
+huggingface-hub
+transformers==4.57.3
+accelerate==1.12.0
+qwen-vl-utils==0.0.14
+vllm==0.11.2

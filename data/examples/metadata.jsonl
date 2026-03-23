@@ -1,0 +1,30 @@
+{"file_name": "0001.png", "character": "g", "size": "large", "noise_type": "null", "character_type": "english", "meta_data": {"type": "lowercase letter"}}
+{"file_name": "0002.png", "character": "sun", "size": "medium", "noise_type": "null", "character_type": "english", "meta_data": {}}
+{"file_name": "0003.png", "character": "65432", "size": "medium", "noise_type": "null", "character_type": "english", "meta_data": {}}
+{"file_name": "0004.png", "character": "你们好久没见他了吗", "size": "small", "noise_type": "null", "character_type": "chinese", "meta_data": {}}
+{"file_name": "0005.png", "character": "6", "size": "large", "noise_type": "vertical_line", "character_type": "number", "meta_data": {}}
+{"file_name": "0006.png", "character": "没", "size": "large", "noise_type": "vertical_line", "character_type": "chinese", "meta_data": {"difficulty": "simple"}}
+{"file_name": "0007.png", "character": "K", "size": "large", "noise_type": "gaussian_noise", "character_type": "english", "meta_data": {"type": "uppercase letter"}}
+{"file_name": "0008.png", "character": "g", "size": "large", "noise_type": "halftone_noise", "character_type": "english", "meta_data": {"type": "lowercase letter"}}
+{"file_name": "0009.png", "character": "W", "size": "large", "noise_type": "labyrinth_noise", "character_type": "english", "meta_data": {"type": "uppercase letter"}}
+{"file_name": "0010.png", "character": "k", "size": "large", "noise_type": "microtext_noise", "character_type": "english", "meta_data": {"type": "lowercase letter"}}
+{"file_name": "0011.png", "character": "的", "size": "large", "noise_type": "microtext_noise", "character_type": "chinese", "meta_data": {"difficulty": "simple"}}
+{"file_name": "0012.png", "character": "d", "size": "large", "noise_type": "chinese_architecture", "character_type": "english", "meta_data": {"type": "lowercase letter"}}
+{"file_name": "0013.png", "character": "上", "size": "large", "noise_type": "chinese_architecture", "character_type": "chinese", "meta_data": {"difficulty": "simple"}}
+{"file_name": "0014.png", "character": "6", "size": "large", "noise_type": "cyberpunk_city", "character_type": "number", "meta_data": {}}
+{"file_name": "0015.png", "character": "p", "size": "large", "noise_type": "cyberpunk_city", "character_type": "english", "meta_data": {"type": "lowercase letter"}}
+{"file_name": "0016.png", "character": "鼓", "size": "large", "noise_type": "cyberpunk_city", "character_type": "chinese", "meta_data": {"difficulty": "complex"}}
+{"file_name": "0017.png", "character": "4", "size": "large", "noise_type": "winter_valley", "character_type": "number", "meta_data": {}}
+{"file_name": "0018.png", "character": "塑", "size": "large", "noise_type": "winter_valley", "character_type": "chinese", "meta_data": {"difficulty": "complex"}}
+{"file_name": "0019.png", "character": "harrypotter", "size": "small", "noise_type": "vertical_line", "character_type": "english", "meta_data": {}}
+{"file_name": "0020.png", "character": "blue", "size": "medium", "noise_type": "gaussian_noise", "character_type": "english", "meta_data": {}}
+{"file_name": "0021.png", "character": "hamburger", "size": "small", "noise_type": "gaussian_noise", "character_type": "english", "meta_data": {}}
+{"file_name": "0022.png", "character": "table", "size": "medium", "noise_type": "halftone_noise", "character_type": "english", "meta_data": {}}
+{"file_name": "0023.png", "character": "你们好久没见他了吗", "size": "small", "noise_type": "halftone_noise", "character_type": "chinese", "meta_data": {}}
+{"file_name": "0024.png", "character": "ironman", "size": "small", "noise_type": "labyrinth_noise", "character_type": "english", "meta_data": {}}
+{"file_name": "0025.png", "character": "superman", "size": "small", "noise_type": "microtext_noise", "character_type": "english", "meta_data": {}}
+{"file_name": "0026.png", "character": "666", "size": "medium", "noise_type": "chinese_architecture", "character_type": "number", "meta_data": {}}
+{"file_name": "0027.png", "character": "december", "size": "small", "noise_type": "chinese_architecture", "character_type": "english", "meta_data": {}}
+{"file_name": "0028.png", "character": "ironman", "size": "small", "noise_type": "cyberpunk_city", "character_type": "english", "meta_data": {}}
+{"file_name": "0029.png", "character": "make", "size": "medium", "noise_type": "winter_valley", "character_type": "english", "meta_data": {}}
+{"file_name": "0030.png", "character": "computer", "size": "small", "noise_type": "winter_valley", "character_type": "english", "meta_data": {}}
